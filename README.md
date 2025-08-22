@@ -1,7 +1,7 @@
 # IntipGram: Instagram Followers Analyzer
 
 
-![screenshoot]("C:\Users\Admin\Documents\instaScope\Screenshot 2025-08-22 130323.png")   
+![Preview](./Screenshot%202025-08-22%20130323.png)
 
 
 
